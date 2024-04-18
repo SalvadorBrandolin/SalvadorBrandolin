@@ -6,10 +6,10 @@ I program principally in Python, I defend myself in Julia and I can do a little 
 
 My principal projects are:
 
--[ugropy](https://github.com/ipqa-research/ugropy): A Python library designed to swiftly and effortlessly obtain the UNIFAC groups from
+- [ugropy](https://github.com/ipqa-research/ugropy): A Python library designed to swiftly and effortlessly obtain the UNIFAC groups from
 molecules by their names and subsequently integrate them into inputs for thermodynamic libraries.
 
--[ReactorD](https://github.com/SalvadorBrandolin/ReactorD): Python project for designing chemical reactors.
+- [ReactorD](https://github.com/SalvadorBrandolin/ReactorD): Python project for designing chemical reactors.
 
 ![SalvadorBrandolin's Stats](https://github-readme-stats.vercel.app/api?username=SalvadorBrandolin&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
