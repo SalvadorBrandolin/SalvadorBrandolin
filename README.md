@@ -11,6 +11,10 @@ molecules by their names and subsequently integrate them into inputs for thermod
 
 - [ReactorD](https://github.com/SalvadorBrandolin/ReactorD): Python project for designing chemical reactors.
 
+<div align="center">
+
 ![SalvadorBrandolin's Stats](https://github-readme-stats.vercel.app/api?username=SalvadorBrandolin&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ![SalvadorBrandolin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalvadorBrandolin&theme=dracula&hide_border=true)
+
+</div>
