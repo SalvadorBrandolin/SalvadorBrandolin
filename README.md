@@ -11,7 +11,7 @@ molecules by their names and subsequently integrate them into inputs for thermod
 
 - [ReactorD](https://github.com/SalvadorBrandolin/ReactorD): Python project for designing chemical reactors.
 
-I'm contributor of
+I'm a contributor of
 
 - [yaeos](https://github.com/ipqa-research/yaeos): Thermodynamic Equations of State, Fortran library with both automatic and anallytical derivation capabilities
 
@@ -22,3 +22,8 @@ I'm contributor of
 ![SalvadorBrandolin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalvadorBrandolin&theme=dracula&hide_border=true)
 
 </div>
+
+## My Linux dotfiles
+I am always trying to improve my workflow with my Linux operating system.
+
+[dotfiles](https://github.com/SalvadorBrandolin/dotfiles)
