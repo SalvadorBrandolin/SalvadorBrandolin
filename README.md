@@ -24,6 +24,4 @@ I'm a contributor of
 </div>
 
 ## My Linux dotfiles
-I am always trying to improve my workflow with my Linux operating system.
-
-[dotfiles](https://github.com/SalvadorBrandolin/dotfiles)
+I am always trying to improve my workflow with my Linux operating system. Checkout my configurations! [dotfiles](https://github.com/SalvadorBrandolin/dotfiles)
