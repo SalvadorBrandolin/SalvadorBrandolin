@@ -2,7 +2,7 @@
 
 I'm a Chemical engineer doing my PhD in chemical reactions engineering. Specifically, I study the enzymatic epoxidation of essential oils in biphasic media.
 
-I program principally in Python, I defend myself in Julia and I can do a little in modern Fortran.
+I program principally in Python, I defend myself in Julia and modern Fortran.
 
 ## My principal projects are:
 
