@@ -6,8 +6,7 @@ I program principally in Python, I defend myself in Julia and modern Fortran.
 
 ## My principal projects are:
 
-- [ugropy](https://github.com/ipqa-research/ugropy): A Python library designed to swiftly and effortlessly obtain the UNIFAC groups from
-molecules by their names and subsequently integrate them into inputs for thermodynamic libraries.
+- [ugropy](https://github.com/ipqa-research/ugropy): A Python library designed to swiftly and effortlessly obtain the UNIFAC-like groups from molecules by their names and subsequently integrate them into inputs for thermodynamic libraries. UNIFAC, PSRK, and Joback models are implemented.
 
 - [ReactorD](https://github.com/SalvadorBrandolin/ReactorD): Python project for designing chemical reactors.
 
