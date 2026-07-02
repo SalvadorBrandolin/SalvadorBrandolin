@@ -43,6 +43,6 @@ I am always trying to improve my workflow with my Linux operating system. Checko
 
 ![SalvadorBrandolin's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SalvadorBrandolin&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![SalvadorBrandolin's Streak](https://git-streak-stats.herokuapp.com/?user=SalvadorBrandolin&theme=dracula&hide_border=true)
+![SalvadorBrandolin's Streak](https://streak-stats.demolab.com/?user=SalvadorBrandolin&theme=dracula&hide_border=true)
 
 </div>
