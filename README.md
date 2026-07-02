@@ -6,7 +6,7 @@ Currently, I am working as a Postdoctoral Researcher, focusing on the production
 
 ---
 
-## 🔬 Research Interests & Expertise
+### 🔬 Research Interests & Expertise
 
 * Chemical Reaction Engineering: Reactor design, multiphasic systems (biphasic media), and enzymatic catalysis.
 * Kinetic Modeling: Parameter estimation, optimization, and mathematical modeling of complex reaction networks.
@@ -25,16 +25,7 @@ I leverage programming as a core tool to solve differential equations, perform p
 
 ---
 
-## 📊 GitHub Analytics
-
-Here is a quick overview of my open-source activity and most used languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark)
-
----
-
-## My principal projects are:
+### My principal projects are:
 
 - [ugropy](https://github.com/ipqa-research/ugropy): A Python library designed to swiftly and effortlessly obtain the UNIFAC-like groups from molecules by their names and subsequently integrate them into inputs for thermodynamic libraries. UNIFAC, PSRK, and Joback models are implemented.
 
@@ -44,5 +35,14 @@ I'm a contributor of
 
 - [yaeos](https://github.com/ipqa-research/yaeos): Thermodynamic Equations of State, Fortran library with both automatic and anallytical derivation capabilities
 
-## My Linux dotfiles
+### My Linux dotfiles
 I am always trying to improve my workflow with my Linux operating system. Checkout my configurations! [dotfiles](https://github.com/SalvadorBrandolin/dotfiles)
+
+
+<div align="center">
+
+![SalvadorBrandolin's Stats](https://github-readme-stats.vercel.app/api?username=SalvadorBrandolin&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![SalvadorBrandolin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalvadorBrandolin&theme=dracula&hide_border=true)
+
+</div>
