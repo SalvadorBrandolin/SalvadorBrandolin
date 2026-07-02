@@ -1,8 +1,38 @@
-### Hi there  i'm Salvador Brandolín 👋
+### Hi there! I'm Dr. Salvador E. Brandolín 👋
 
-I'm a Chemical engineer doing my PhD in chemical reactions engineering. Specifically, I study the enzymatic epoxidation of essential oils in biphasic media.
+Welcome to my GitHub profile! I am a Ph.D. in Engineering Sciences specializing in chemical reaction engineering, kinetic modeling, and the simulation of bio-based processes.
 
-I program principally in Python, I defend myself in Julia and modern Fortran.
+Currently, I am working as a Postdoctoral Researcher, focusing on the production, optimization, and kinetic modeling of Epoxidized Soybean Oil (ESBO).
+
+---
+
+## 🔬 Research Interests & Expertise
+
+* Chemical Reaction Engineering: Reactor design, multiphasic systems (biphasic media), and enzymatic catalysis.
+* Kinetic Modeling: Parameter estimation, optimization, and mathematical modeling of complex reaction networks.
+* Thermodynamics: phase equilibrium modelling.
+
+> 🎓 Ph.D. Background: My doctoral research focused on the *enzymatic epoxidation of essential oils in biphasic media*, where I bridged experimental work with custom software development to solve simultaneous mass transfer and chemical kinetics.
+
+---
+
+## 🛠️ Scientific Computing Stack
+
+I leverage programming as a core tool to solve differential equations, perform parameter tuning, and analyze complex datasets:
+
+* 🐍 **Python** (Primary): Daily driver for data analysis, visualization, and rapid modeling.
+* ⚙️ **Modern Fortran**: Used for heavy numerical calculations (mostly thermodynamics).
+
+---
+
+## 📊 GitHub Analytics
+
+Here is a quick overview of my open-source activity and most used languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark)
+
+---
 
 ## My principal projects are:
 
@@ -13,14 +43,6 @@ I program principally in Python, I defend myself in Julia and modern Fortran.
 I'm a contributor of
 
 - [yaeos](https://github.com/ipqa-research/yaeos): Thermodynamic Equations of State, Fortran library with both automatic and anallytical derivation capabilities
-
-<div align="center">
-
-![SalvadorBrandolin's Stats](https://github-readme-stats.vercel.app/api?username=SalvadorBrandolin&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-![SalvadorBrandolin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalvadorBrandolin&theme=dracula&hide_border=true)
-
-</div>
 
 ## My Linux dotfiles
 I am always trying to improve my workflow with my Linux operating system. Checkout my configurations! [dotfiles](https://github.com/SalvadorBrandolin/dotfiles)
